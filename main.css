@@ -1,0 +1,30 @@
+h1{
+    color: rgb(97, 97, 97);
+}
+body{
+    /* text-align: center; */
+    background-color: rgb(248, 252, 254);
+}
+p{
+    color: rgb(75, 75, 75);
+}
+.zeroText{
+    color: red;
+}
+.correctText{
+    color: rgb(75, 75, 75);
+}
+.completedTask{
+    text-decoration-color: rgb(251, 9, 9);
+    text-decoration: line-through;
+    color: rgb(218, 62, 62);
+}
+small{
+    vertical-align: 5px;
+    font-size: x-small;    
+}
+button{
+    display: block;
+    margin-top: 5px;
+    margin-left: 33px;
+}
